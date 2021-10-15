@@ -7,3 +7,5 @@ resource "google_compute_network" "vpc_network" {
   mtu                     = 1460
 }
 
+
+
